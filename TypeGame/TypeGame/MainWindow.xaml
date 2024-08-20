@@ -16,7 +16,7 @@
             <Setter Property="MinWidth" Value="0"/>
             <Setter Property="FontFamily" Value="Rockwell"/>
             <Setter Property="Margin" Value="0,20"/>
-            <Setter Property="FontSize" Value="50"/>
+            <Setter Property="FontSize" Value="30"/>
             <Setter Property="Background" Value="Transparent"/>
             <Setter Property="BorderThickness" Value="0"/>
             <Setter Property="FontWeight" Value="Bold"/>
@@ -37,13 +37,13 @@
             <RowDefinition/>
         </Grid.RowDefinitions>
 
-        <TextBox Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="10" Grid.RowSpan="2"
+        <TextBox Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="10" Grid.RowSpan="9"
             Foreground="#FF424242" TextAlignment="Left"
             Focusable="False" x:Name="ShowTextBox" >Hi</TextBox>
 
-        <TextBox Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="10" Grid.RowSpan="2"
+        <TextBox Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="10" Grid.RowSpan="9"
             Foreground="DarkGray" TextAlignment="Left"
             TextChanged="TextBox_TextChanged" CaretBrush="White"
-            Focusable="True" x:Name="WriteTextBox"></TextBox>
+            Focusable="True" x:Name="WriteTextBox" KeyDown="WriteTextBox_KeyDown"></TextBox>
     </Grid>
 </Window>

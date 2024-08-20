@@ -83,5 +83,10 @@ namespace TypeGame
 		{
 
 		}
+
+		private void WriteTextBox_KeyDown(object sender, KeyEventArgs e)
+		{
+			if (e.Key == Key.Tab) TextTyped();
+		}
 	}
 }

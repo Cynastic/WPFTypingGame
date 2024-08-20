@@ -1,0 +1,350 @@
+ Alan Kay
+ Donald Knuth
+ Edsger Dijkstra, CACM, 15:10
+ Mark Twain
+ Jeff "hemos" Bates, Director, OSDN; Co-evolver, Slashdot
+ Yukihiro "Matz" Matsumoto, creator of Ruby
+ Modern zen Poem
+ Eric S. Raymond, How to become a hacker
+ Eric S. Raymond, How to become a hacker
+ Juan Meng, Reviewing "The future of ideas" by Lawrence Lessig
+ Alan J. Perlis (Epigrams in programming)
+ Alan J. Perlis (Epigrams in programming)
+ Alan J. Perlis (Epigrams in programmi ng)
+ Alan J. Perlis (Epigrams in programming)
+ Alan J. Perlis (Epigrams in programming)
+ Alan J. Perlis (Epigrams in programming)
+ Alexander Pope
+ Eric Raymond
+ Frederick P. Brooks, No Sliver Bullet.
+ Roger Schank, Engines for Education
+ Roger Schank, Engines for Education
+ Roger Schank, Engines for Education
+ Roger Schank, Engines for Education
+ Xavier Tartacover
+ E. W. Dijkstra, The humble programmer
+E. W. Dijkstra, The humble programmer
+ E. W. Dijkstra, The humble programmer
+ Shnuup, sur l'hypertexte (SELFHTML -> Introduction -> Definitions sur l'hypertexte)
+ Hermann Weyl, The Mathematical Way of Thinking
+ Eric Lippert.
+ Alan J. Perlis
+ Alan J. Perlis
+ Alan J. Perlis
+ John Locke, An Essay Concerning Human Understanding (1690)
+ Alan J. Perlis
+ SICP
+ Albert Einstein
+ WestHost weekly newsletter 14 Feb 2003
+ Napoleon Bonaparte (allegedly)
+ Hugh Kingsmill
+ C. A. R. Hoare
+ Joel Spolsky		
+ Larry Wall (Programming Perl)
+ Joel Spolsky (The Law of Leaky Abstractions)
+ Guido van Rossum
+ Keith Devens
+ Bjarne Stroustrup
+ Matthew 5:45
+ Alan Perlis
+ Blaise Pascal (Lettres Provinciales)
+ Blaise Pascal (attributed)
+ David Mamet (as relayed by Joss Whedon)
+ Edsger Dijkstra		
+ Steven Den Beste
+ William Strunk, Jr. (The Elements of Style)
+ Galileo Galilei
+ Milton Friedman (Thomas Sowell: A Conflict of Visions, p130)
+ Brave New World (paraphrased)
+ C.S. Lewis
+ Catwoman (The Batman TV Series, episode 83)
+ some chick in Alien vs. Predator, when asked why she
+ Scott McKay
+ Paul Graham
+ unknown
+ David (Psalm 56:4)
+ Jamie Zawinski
+ wordpress.org
+ Rush (Freewill)
+ Alfred North Whitehead (Introduction to Mathematics)		
+ Cicero
+ Brad Bird, writer and director, The Incredibles
+ Ronald Reagan
+ "Hoots"
+ Pontius Pilate
+ Ferris Bueller
+ Eric S. Raymond
+ Philip Greenspun (Greenspun's Tenth Rule)
+ Paul Graham
+ Donald Campbell
+ Randy S. Nelson (dean of Pixar University)
+ Randy S. Nelson (dean of Pixar University)
+ Butler Lampson	
+ Antoine de St Exupery.
+ Aristotle.
+ Hara Estroff Marano.
+ [fact]
+ [fact]
+ [A comment on a blog]
+ unknown
+ unknown
+ Paul Graham.
+If you give him a penny for his thoughts, you'd get change.
+Not the sharpest knife in the drawer.
+A prime candidate for natural deselection.
+ [Ideas for flamewars]
+ Paul Graham
+ unknown
+ Paul Buchheit
+ The culture code.
+ unknown
+ http://www.catonmat.net
+ Tim Harford
+ http://secretsofstudying.com/
+ unknown
+ [Fixing architecture flaws in Rails' ORM]
+ Sincerity Theory
+ The bipolar lisp programmer
+ David Heinemeier Hansson (Ruby On Rails' creator)
+ William S. Annis
+ Mark Chu-Carroll
+ Paul Graham (a talk at Y Combinator, for startup creators).
+ Andreas Zwinkau
+ Alexandru Vancea
+ SlideTrombone (comment on "Programming can ruin your life")
+ Isaac (blog comment)
+ Super-sizing YouTube with Python (Mike Solomon, mike@youtube.com)
+ Douglas Crockford (Author of JSON and JsLint)
+ Corneluis (comment on 'Are you going to change the world? (Really?)')
+ Bruce Wilder (blog post comment)
+ Paul Graham, The other road ahead.
+ SICP, What is meant by data?
+ Steve Yegge.
+ Joesgoals.com
+ Joesgoals.com
+ Stevey, Refactoring Trilogy, Part 1.
+ Marc (http://kickin-the-darkness.blogspot.com/)
+ Bruce Lee
+ VladimirSlepnev
+ Le PDG de NURV, dans "Anti-trust".
+ David Gorman (ImThere.com)
+ Marc Andreessen (http://blog.pmarca.com/)
+ Marc Andreessen (http://blog.pmarca.com/)
+ Nassim Nicholas Taleb, "The Black Swan".
+ Dan Nugent
+ Jared Diamond
+ Johann Wolfgang Von Goethe (1749-1832)
+ Paul Graham, on the Lightweight Languages mailing list.
+ Paul Graham and Norbert Weiner, respectively
+ Chris Crawford
+ Alan Perlis
+ Edsger Dijkstra
+ Edsger Dijkstra
+ Rear Admiral Grace Hopper
+ Reginald Braithwaite
+ DJ MacLean
+ Bob Sutton
+ Albert Einstein
+  Erik Naggum
+ Max Levchin, PayPal founder, Talk at StartupSchool2007
+ Max Levchin, PayPal founder, Talk at StartupSchool2007
+ Hadi Partovi & Ali Partovi (iLike.com), Talk at StartupSchool2007
+ Mark Ward
+ http://www.cpax.org.uk/prg/
+ Anatole France
+ BetterExplained.com
+ BetterExplained.com
+ Sherlock Holmes
+ George Miller
+ Lao�Tzu
+ Ben Hoyts (micropledge)
+ Paolo Bonzini
+ LeCamarade (freeshells.ch)
+ Anton van Straaten (Na = Norman Adams, Qa = Christian Queinnec)
+ Bjarne Stroustrap
+ Alberti
+ engtech (internetducttape.com)
+ OO Sucks (bluetail.com)
+ Ragala Khalid
+ WikiHow
+ ASPN : Python Cookbook : Explicit Tail Call
+ Dr. Koichi Kawana
+ Ridderstrale & Nordstorm, Funky Business
+ Steve Jobs
+ Steve Jobs, to John Sculley (former Pepsi executive)
+ Lawrence Lessig, Free Culture.
+ H. Hardy, A mathematician's apology.
+ Dennis (blog comment)
+ G. H. Hardy
+ Joss Whedon
+ Chuck Norris(?)
+ Crayz (Commentor on blog.raganwald.com)
+ Reginald Braithwait
+ Benjamin Franklin
+ Mahatma Gandhi
+ E. W. Dijkstra
+ Richard P. Gabriel & Ron Goldman, Mob Software: The Erotic Life of Code
+ Some guy who isn't famous
+ E. W. Dijkstra, On the nature of computing science.
+ Eric KEDJI
+ smoothspan.com
+ Matz, LL2
+ Steve Yegge, Tour de Babel.
+ ?
+ author unknown (quoted in `Robust Systems', Gerald Jay Suseman)
+ Edsger Dijkstra
+ Earl of Chesterfield
+ M.A. Jackson
+ W.A. Wulf
+ Donald Knuth
+ Voltaire
+ Ralph Nader
+ The little book of leadership
+ Phil Dourado
+ Richard Feynman
+ William Shakespeare, "Henry VI"
+ Eric Hamilton
+ Pablo Picasso
+ Niklaus Wirth
+ William Strunk, Jr. (The Elements of Style)
+ Steve Yegge.
+ Aristotle.
+ Edsger Dijkstra
+ Seneca
+ Nathan Weizenbaum
+ Paul Graham
+ Thomas Jefferson
+ George Burns
+ Mario Andretti
+ Louis Pasteur
+ Brian Kernigan
+ Grady Booch
+ Rich Cook
+ Peter Seebach
+ Randall E. Stross
+ Bill Gates
+ Bill Gates
+ George Carrette
+ L. Peter Deutsch
+ Anonymous
+ Stan Kelly-Bootle
+ E.W. Dijkstra
+ E. W. Dijkstra
+ Robert Firth
+ Alanna
+ Robert Sewell
+ Linus Torvalds
+ Eagleson�s Law
+ Francis Glassborow
+ Bill Clinton
+ Edsger W. Dijkstra
+ Martin Golding
+ Charles H. Duell, Commissioner, U.S. Office of Patents, 1899
+ Thomas J. Watson, Chairman of the Board, IBM, circa 1948
+ John Von Neumann, circa 1949
+ Engineer at the Advanced Computing Systems Division of IBM,
+ Ken Olson, President, Digital Equipment Corporation, 1977
+ Bill Gates, 1981
+ Microsoft, on the development of Windows NT, 1992
+ Andy Pierson
+ Frank Lloyd Wright
+ arcus, #scheme on Freenode
+ Jeffrey Mark Siskind <qobi@research.nj.nec.com> in comp.lang.lisp
+ John Foderaro
+ Lament, #scheme@freenode.net
+ Thomas Edison
+ Pablo Picasso
+ Gary Kildall (inventor of CP/M, one of the first OS for the micro).
+ Gary Kildall (inventor of CP/M, one of the first OS for the micro).
+ Gary Kildall (inventor of CP/M, one of the first OS for the micro).
+ Gary Kildall (inventor of CP/M, one of the first OS for the micro).
+ Gary Kildall (inventor of CP/M, one of the first OS for the micro).
+ Arthur C. Clarke
+ Arthur C. Clarke
+ Malcolm Gladwell, Who says big ideas are rare? 
+ Malcolm Gladwell, Who says big ideas are rare?
+ Philip Greenspun
+ Philip Greenspun
+ Philip Greenspun
+ Donald Knuth
+ Nassim Taleb
+ Anonymous
+ Bertrand Russell
+ Dee Hock, Birth of the Chaordic Age
+ unknown
+ Mark Tarver (of "The bipolar Lisp programmer" fame)
+ Alan Kay
+ Alan Kay
+ Alan Kay
+ Alan Kay
+ Alan Kay
+ Alan Kay
+ Alan Kay
+ Charles Baudelaire, Conseils aux jeunes litt�rateurs.
+ Charles Baudelaire, Conseils aux jeunes litt�rateurs.
+ Charles Baudelaire, Conseils aux jeunes litt�rateurs.
+ Official definition of "duck typing"
+ almkgor, on reddit
+ Linux Torvalds
+ Bertrand Russell
+ 37 Signal, Getting real
+ Steve Jobs
+ Hans Hofmann
+ Winston Churchill
+ Thomas Edison
+ Richard Sites
+ Sebastien, sur commentcamarche.net
+ Chris Wanstrath
+ Vim user manual
+ Tim Gallwey, The inner game of work
+ Tim Gallwey, The inner game of work
+ Ted Kennedy
+ Donald Norman 
+ Ralph Johnson 
+ Elie Wiesel
+Gbi de fer
+Howa!
+On va en France
+Non, je vais pas!
+Pourquoi?
+Parce ki y a pas agouti l�-bas!
+ Gbi de fer
+ Colin Powell
+ Mahatma Gandhi
+ Dwight D. Enseinhover.
+ Randy Pausch
+ Cited by Randy Pausch
+ Randy Pausch
+ J. B. Bossuet, Politics from Holy Writ, 1709
+ Rear Admiral Dr. Grace Hopper
+ Benjamin Franklin
+ Mary Ellen Kelly
+ everything2.com
+ pigsandfishes.com
+ How to fail: 25 secrets learned through failure
+ How to fail: 25 secrets learned through failure
+ Albert Einstein
+ Albert Einstein
+ Buddha
+ Eric S. Raymond, How To Be A Hacker
+ Voltaire
+ Frederick P. Brooks, No Sliver Bullet.
+ Jean-Fran�ois Paul de Gondi de Retz
+ Greek philosopher Epicurus
+ Eleanor Roosevelt
+ Mark Twain
+ Dr. Seuss
+ Elie Wiesel
+ John Lennon
+ Mark Twain
+ Ralph Waldo Emerson
+ Friedrich Nietzsche
+ George Leonard, Mastery.
+ Ernest Hemingway
+ George Leonard, Mastery.
+ Ancient Eastern adage
+ George Leonard, Mastery.
+ Goethe
+ Rainer Maria Rilke, The Man Watching.
+ George Leonard, Mastery.
+ George Leonard, Mastery.

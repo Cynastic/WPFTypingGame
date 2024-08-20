@@ -1,0 +1,49 @@
+﻿<Window x:Class="TypeGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TypeGame"
+        mc:Ignorable="d"
+        Title="TypeTrainer" Height="450" Width="800" ContentRendered="Window_ContentRendered" Background="#32302F"
+>
+
+    <Window.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="MinWidth" Value="0"/>
+            <Setter Property="FontFamily" Value="Rockwell"/>
+            <Setter Property="Margin" Value="0,20"/>
+            <Setter Property="FontSize" Value="50"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="TextWrapping" Value="WrapWithOverflow"/>
+        </Style>
+   </Window.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBox Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="10" Grid.RowSpan="2"
+            Foreground="#FF424242" TextAlignment="Left"
+            Focusable="False" x:Name="ShowTextBox" >Hi</TextBox>
+
+        <TextBox Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="10" Grid.RowSpan="2"
+            Foreground="DarkGray" TextAlignment="Left"
+            TextChanged="TextBox_TextChanged" CaretBrush="White"
+            Focusable="True" x:Name="WriteTextBox"></TextBox>
+    </Grid>
+</Window>

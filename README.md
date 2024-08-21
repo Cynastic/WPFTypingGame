@@ -1,5 +1,6 @@
 # Typing Game
 > No releases yet, will add some as soon as I can.
+
 This is a simple Typing Game I made for Windows with WPF & C#
 Automatically starts a timer when the first input is detected, displays CPM(characters per minute) at the end of the test.
 

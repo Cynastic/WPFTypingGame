@@ -13,3 +13,4 @@ Automatically starts a timer when the first input is detected, displays CPM(char
 You can use custom Texts for you tests by changing the quotes.txt file:
 - Each Text has to be on one line, it will be formatted automatically.
 - author.txt must be changed on the same line to stay accurate.
+- If the text is too long, it will no longer fit into the window unless you change the window size and/or the font size.

@@ -10,6 +10,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Media.Effects;
+using System.Diagnostics;
 using System.Windows.Media.Animation;
 
 namespace TypeGame
@@ -19,18 +20,21 @@ namespace TypeGame
 	/// </summary>
 	public partial class MainWindow : Window
 	{
+		bool timerRunning = false;
+		Stopwatch stopwatch = new();
+
 		public MainWindow()
 		{
 			InitializeComponent();
 			TextManager.Initialize();
-			ChangeText(TextManager.currentText);
+			UpdateText();
 			WriteTextBox.Focus();
 			Dispatcher.BeginInvoke(AlignTextBoxes, System.Windows.Threading.DispatcherPriority.ContextIdle);
 		}
 
 		private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
 		{
-			
+			if (!timerRunning) StartTimer();
 			for(int i = 0; i < WriteTextBox.Text.Length; i++)
 			{
 				if (TextManager.currentText[i] != WriteTextBox.Text[i])
@@ -47,12 +51,28 @@ namespace TypeGame
 			}
 		}
 
+		private void StartTimer()
+		{
+			stopwatch.Start();
+			timerRunning = true;
+		}
+
+		private void EndTimer()
+		{
+			stopwatch.Stop();
+			timerRunning = false;
+		}
+
 		void TextTyped()
 		{
+			EndTimer();
+			double cpm = TextManager.currentText.Length / ((double)stopwatch.ElapsedMilliseconds / 60000d);
+			MessageBox.Show((Math.Round(cpm)).ToString());
 			WriteTextBox.Text = "";
 			TextManager.TextWritten();
-			ChangeText(TextManager.currentText);
+			UpdateText();
 			Dispatcher.BeginInvoke(AlignTextBoxes, System.Windows.Threading.DispatcherPriority.ContextIdle);
+			stopwatch.Reset();
 		}
 
 		void AlignTextBoxes()
@@ -74,9 +94,10 @@ namespace TypeGame
 			sb.Begin();
 		}
 
-		public void ChangeText(string text)
+		public void UpdateText()
 		{
-			ShowTextBox.Text = text;
+			ShowTextBox.Text = TextManager.currentText;
+			authorLabel.Content = TextManager.currentAuthor;
 		}
 
 		private void Window_ContentRendered(object sender, EventArgs e)
@@ -86,7 +107,44 @@ namespace TypeGame
 
 		private void WriteTextBox_KeyDown(object sender, KeyEventArgs e)
 		{
-			if (e.Key == Key.Tab) TextTyped();
+			//Control is pressed:
+			if((Keyboard.GetKeyStates(Key.LeftCtrl) & KeyStates.Down) > 0)
+			{
+				switch(e.Key)
+				{
+					case Key.OemPlus:
+						IncreaseFontSize();
+						break;
+					case Key.OemMinus:
+						DecreaseFontSize();
+						break;
+				}
+			}
+
+			switch(e.Key)
+			{
+				case Key.Tab:
+					TextTyped();
+					break;
+			}
+		}
+
+		private void IncreaseFontSize()
+		{
+			ShowTextBox.FontSize++;
+			WriteTextBox.FontSize++;
+		}
+
+		private void DecreaseFontSize()
+		{
+			if (ShowTextBox.FontSize <= 1) return;
+			ShowTextBox.FontSize--;
+			WriteTextBox.FontSize--;
+		}
+
+		private void Window_SizeChanged(object sender, SizeChangedEventArgs e)
+		{
+			Dispatcher.BeginInvoke(AlignTextBoxes, System.Windows.Threading.DispatcherPriority.ContextIdle);
 		}
 	}
 }

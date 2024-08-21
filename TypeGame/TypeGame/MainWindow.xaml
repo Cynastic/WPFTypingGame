@@ -5,17 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TypeGame"
         mc:Ignorable="d"
-        Title="TypeTrainer" Height="450" Width="800" ContentRendered="Window_ContentRendered" Background="#32302F"
+        Title="TypeTrainer" Height="450" Width="800" ContentRendered="Window_ContentRendered" Background="#32302F" SizeChanged="Window_SizeChanged"
 >
 
     <Window.Resources>
-        <Style TargetType="TextBox">
-            <Setter Property="HorizontalAlignment" Value="Center"/>
-            <Setter Property="VerticalAlignment" Value="Center"/>
+        <Style TargetType="TextBox" x:Name="TextBoxStyle">
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="VerticalAlignment" Value="Top"/>
             <Setter Property="HorizontalContentAlignment" Value="Center"/>
             <Setter Property="MinWidth" Value="0"/>
             <Setter Property="FontFamily" Value="Rockwell"/>
-            <Setter Property="Margin" Value="0,20"/>
+            <Setter Property="Margin" Value="20,30"/>
             <Setter Property="FontSize" Value="30"/>
             <Setter Property="Background" Value="Transparent"/>
             <Setter Property="BorderThickness" Value="0"/>
@@ -45,5 +45,8 @@
             Foreground="DarkGray" TextAlignment="Left"
             TextChanged="TextBox_TextChanged" CaretBrush="White"
             Focusable="True" x:Name="WriteTextBox" KeyDown="WriteTextBox_KeyDown"></TextBox>
+
+        <Label FontFamily="Rockwell" FontWeight="Bold" Foreground="#3E3E3E"
+            x:Name="authorLabel" Margin="10,10" Grid.ColumnSpan="2">AuthorName</Label>
     </Grid>
 </Window>

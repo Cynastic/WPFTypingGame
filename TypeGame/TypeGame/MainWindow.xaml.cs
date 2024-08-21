@@ -72,7 +72,7 @@ namespace TypeGame
 			TextManager.TextWritten();
 			UpdateText();
 			Dispatcher.BeginInvoke(AlignTextBoxes, System.Windows.Threading.DispatcherPriority.ContextIdle);
-			stopwatch.Reset();
+			stopwatch = new();
 		}
 
 		void AlignTextBoxes()
